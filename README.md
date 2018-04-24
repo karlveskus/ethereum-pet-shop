@@ -2,7 +2,12 @@
 
 ## Requirements
 - Git
-- Ganache
+- [Node](https://nodejs.org/en/)
+- [Ganache](http://truffleframework.com/ganache/)
+- Truffle
+
+## Download Truffle globally
+Run ```npm install -g truffle```
 
 ## Setup
 1. Compile ```truffle compile```
